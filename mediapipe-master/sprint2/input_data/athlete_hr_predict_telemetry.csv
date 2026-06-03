@@ -1,0 +1,9 @@
+session_id,athlete_id,date,resting_heart_rate,sleep_efficiency,spo2,gps_distance_km,sprint_count,match_load,source_file,avg_heart_rate,max_heart_rate,avg_speed_mps,max_speed_mps,avg_cadence,duration_sec
+garmin_run_001,athlete_hr_predict_reference,2021-03-24,81.0,85,98,4.381,0,51.93,RUN_2021-03-25-10-40-55.fit.csv,148.24,172.0,2.607,3.48,85.19,1679
+garmin_run_002,athlete_hr_predict_reference,2021-03-27,65.0,85,98,13.133,0,100.0,RUN_2021-03-28-08-52-59.fit.csv,146.92,163.0,2.628,2.995,88.91,4992
+garmin_run_003,athlete_hr_predict_reference,2021-03-31,72.0,85,98,5.361,0,58.33,RUN_2021-04-01-11-01-57.fit.csv,144.13,166.0,2.565,3.331,83.42,2077
+garmin_run_004,athlete_hr_predict_reference,2021-04-01,80.0,85,98,6.652,0,68.02,RUN_2021-04-02-09-11-28.fit.csv,142.29,156.0,2.828,3.144,90.86,2350
+garmin_run_005,athlete_hr_predict_reference,2021-04-03,85.0,85,98,16.896,0,100.0,RUN_2021-04-04-07-56-55.fit.csv,141.6,159.0,2.684,3.079,88.03,6283
+garmin_run_006,athlete_hr_predict_reference,2021-04-05,92.0,85,98,6.557,0,66.66,RUN_2021-04-06-09-04-28.fit.csv,140.58,155.0,2.665,2.837,89.77,2462
+garmin_run_007,athlete_hr_predict_reference,2021-04-07,63.0,85,98,5.342,0,57.51,RUN_2021-04-08-10-09-18.fit.csv,142.21,165.0,2.658,3.2,87.71,2004
+garmin_run_008,athlete_hr_predict_reference,2021-04-10,58.0,85,98,9.406,0,88.1,RUN_2021-04-11-08-14-51.fit.csv,136.72,156.0,2.653,2.921,88.59,3545

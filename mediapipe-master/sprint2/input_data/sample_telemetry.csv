@@ -1,0 +1,8 @@
+session_id,athlete_id,date,resting_heart_rate,sleep_efficiency,spo2,gps_distance_km,sprint_count,match_load
+session_001,athlete_001,2026-05-22,58,91,98,4.2,12,42
+session_002,athlete_001,2026-05-23,61,88,98,5.1,16,55
+session_003,athlete_001,2026-05-24,64,82,97,6.4,23,68
+session_004,athlete_001,2026-05-25,67,76,96,7.8,31,82
+session_005,athlete_001,2026-05-26,70,72,95,8.5,38,91
+session_006,athlete_001,2026-05-27,63,86,97,5.8,19,61
+session_007,athlete_001,2026-05-28,60,90,98,4.6,14,48
